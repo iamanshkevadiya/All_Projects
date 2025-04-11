@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-light-rgb: 245, 245, 245;
+  --color-light: #f5f5f5;
+  --black-color: #000000;
+  --black-color-rgb: 0, 0, 0;
+  --white-color: #ffffff;
+  --white-color-rgb: 255, 255, 255;
+  --yellow-color: #f8d448;
+  --yellow-color-rgb: 248, 212, 72;
+  --bg-color: #3554d1;
+  --bg-color-rgb: 53, 84, 209;
+  --header-color: #051036;
+  --header-color-rgb: 5, 16, 54;
+  --font-family: Jost;
+  --font-size: 16px;
+  --font-weight: 500;
+  --line-height: 1.5;
+  --gutter-weight: 15px;
+}/*# sourceMappingURL=base.css.map */
